@@ -2,7 +2,7 @@
 
 operationFacade.addingOperation(10, 2);
 
-operationFacade.divisionOperation(11, 3);
+operationFacade.divisionOperation(10, 2);
 
 public interface IOperation
 {
