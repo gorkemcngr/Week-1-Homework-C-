@@ -1,0 +1,15 @@
+C:\Users\gorkemcenger\source\repos\Homework\Homework\bin\Debug\net6.0\SolidHomework.exe
+C:\Users\gorkemcenger\source\repos\Homework\Homework\bin\Debug\net6.0\SolidHomework.deps.json
+C:\Users\gorkemcenger\source\repos\Homework\Homework\bin\Debug\net6.0\SolidHomework.runtimeconfig.json
+C:\Users\gorkemcenger\source\repos\Homework\Homework\bin\Debug\net6.0\SolidHomework.dll
+C:\Users\gorkemcenger\source\repos\Homework\Homework\bin\Debug\net6.0\SolidHomework.pdb
+C:\Users\gorkemcenger\source\repos\Homework\Homework\obj\Debug\net6.0\SolidHomework.csproj.AssemblyReference.cache
+C:\Users\gorkemcenger\source\repos\Homework\Homework\obj\Debug\net6.0\SolidHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorkemcenger\source\repos\Homework\Homework\obj\Debug\net6.0\SolidHomework.AssemblyInfoInputs.cache
+C:\Users\gorkemcenger\source\repos\Homework\Homework\obj\Debug\net6.0\SolidHomework.AssemblyInfo.cs
+C:\Users\gorkemcenger\source\repos\Homework\Homework\obj\Debug\net6.0\SolidHomework.csproj.CoreCompileInputs.cache
+C:\Users\gorkemcenger\source\repos\Homework\Homework\obj\Debug\net6.0\SolidHomework.dll
+C:\Users\gorkemcenger\source\repos\Homework\Homework\obj\Debug\net6.0\refint\SolidHomework.dll
+C:\Users\gorkemcenger\source\repos\Homework\Homework\obj\Debug\net6.0\SolidHomework.pdb
+C:\Users\gorkemcenger\source\repos\Homework\Homework\obj\Debug\net6.0\SolidHomework.genruntimeconfig.cache
+C:\Users\gorkemcenger\source\repos\Homework\Homework\obj\Debug\net6.0\ref\SolidHomework.dll
